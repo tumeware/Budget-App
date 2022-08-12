@@ -1,0 +1,67 @@
+{
+  "expo": {
+    "name": "BudgetPal",
+    "description": "Easily create budgets and track how much you need to spend daily / weekly / monthly to reach your goal",
+    "slug": "domware-dev-budgetpal",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "budgetpal",
+    "userInterfaceStyle": "automatic",
+    "primaryColor": "#5C6BC0",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#5C6BC0"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "buildNumber": "1.0.3",
+      "bundleIdentifier": "domware.dev.budgetpal",
+      "infoPlist": {
+        "CFBundleAllowMixedLocalizations": true
+      },
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-8545571077756392~8215967294"
+      },
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "splash": {
+        "resizeMode": "cover",
+        "image": "./assets/images/splash.png"
+      }
+    },
+    "android": {
+      "versionCode": 3,
+      "package": "domware.dev.budgetpal",
+      "softwareKeyboardLayoutMode": "pan",
+      "userInterfaceStyle": "automatic",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-8545571077756392~9089532439"
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#5C6BC0"
+      },
+      "splash": {
+        "image": "./assets/images/splash.png",
+        "resizeMode": "cover"
+      }
+    },
+    "locales": {
+      "fi": "./i18n/fi.json"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}

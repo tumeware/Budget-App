@@ -1,0 +1,114 @@
+{
+  "test": {
+    "i18nTest": "Works"
+  },
+
+  "homeScreen": {
+    "newButton": "Add Project",
+    "modalTitle": "Welcome!",
+    "modalButton": "I Understand",
+    "modalText": "By using the App, you agree to the Terms of Use and Privacy Policy, which can be found at the following links",
+    "PPLinkText": "Privacy Policy",
+    "TKLinkText": "Terms & Conditions"
+  },
+
+  "itemScreen": {
+    "title": "Add Payment",
+    "bigButton": "Add Payment",
+    "addPaymentButton": "Add",
+    "modalDescription": "Description",
+    "modalMoney": "Amount Of Money"
+  },
+
+  "item": {
+    "goalTitle": "Money to Be Paid to Achieve a Goal",
+    "day": "Per Day",
+    "week": "Per Week",
+    "month": "Per Month",
+    "left": "Days Left",
+    "date": "Goal Date"
+  },
+
+  "paymentsList": {
+    "modalTitle": "Payments",
+    "bottomButton": "Close"
+  },
+
+  "infoModal": {
+    "modalTitle": "Info",
+    "budgetTitle": "Goal Budget",
+    "descriptionTitle": "Project Description"
+  },
+
+  "addNewItemScreen": {
+    "title": "Project Name",
+    "title2": "Money",
+    "title3": "Date and Time",
+    "title4": "Select Image",
+    "unsplashInfo": "Sponsored by Unsplash",
+    "selectImageButton": "select image",
+    "cameraPermissionDenied": "Sorry, we need camera roll permissions to make this work!",
+    "nextButton": "Next",
+    "saveButton": "Save",
+    "name": "Name of the Project",
+    "description": "Description",
+    "budgetGoal": "Target budget",
+    "deadlineDate": "Deadline Date",
+    "deadlineTime": "Deadline Time",
+    "projectImg": "Project Image",
+    "currency": "Currency"
+  },
+
+  "card": {
+    "title": "Your Projects"
+  },
+
+  "loginScreen": {
+    "loginTitle": "Login",
+    "forgotPWTitle": "Forgot Password",
+    "newAccountTitle": "New Account",
+    "email": "Email",
+    "password": "Password",
+    "loginButton": "Login",
+    "newAccountButton": "add",
+    "forgotPWButton": "send",
+    "leftBottomText": "Forgot Password?",
+    "rightBottomText": "Create a New Account",
+    "naBottomText": "Do You Have An Account? Please Log In",
+    "rPwTopText": "Enter the email address you use and we'll send you a password reset link."
+  },
+
+  "itemsList": {
+    "emptyList": "The project list is empty. please press the add project button to add a new project."
+  },
+
+  "timer": {
+    "day": "day",
+    "days": "days",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds",
+    "timeEnd": "Time is up!",
+    "oneDayLeft": "Only one day left",
+    "DayLeft": "Less than a day left"
+  },
+
+  "addNewItemsImage": {
+    "searchBar": "Search Images",
+    "unsplashBy": "Photo by",
+    "unsplashSponsored": "Unsplash Images"
+  },
+
+  "circle": {
+    "leftTopText": "Left",
+    "rightTopText": "Paid"
+  },
+
+  "configScreen": {
+    "title": "Settings",
+    "logOut": "Log-out",
+    "removeAccount": "Remove Account",
+    "warning": "Are you absolutely sure?"
+  }
+
+}

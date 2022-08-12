@@ -1,0 +1,115 @@
+{
+  "CFBundleDisplayName": "Budgetpal",
+
+  "test": {
+    "i18nTest": "Toimii"
+  },
+
+  "homeScreen": {
+    "newButton": "Lisää Projekti",
+    "modalTitle": "Tervetuloa!",
+    "modalButton": "Ymmärrän",
+    "modalText": "Käyttämällä appia hyväksyt käyttöehdot ja tietosuojakäytännön, jotka löytyvät seuraavista linkeistä",
+    "PPLinkText": "Tietosuojakäytäntö",
+    "TKLinkText": "käyttöehdot"
+  },
+
+  "itemScreen": {
+    "title": "Uusi maksu",
+    "bigButton": "Lisää maksu",
+    "addPaymentButton": "Lisää",
+    "modalDescription": "Kuvaus",
+    "modalMoney": "Rahamäärä"
+  },
+
+  "item": {
+    "goalTitle": "Tavoitteen saavuttamiseksi maksettava raha",
+    "day": "Päivässä",
+    "week": "Viikossa",
+    "month": "Kuukaudessa",
+    "left": "Päiviä jäljellä",
+    "date": "Tavoitepäivämäärä"
+  },
+
+  "paymentsList": {
+    "modalTitle": "Maksut",
+    "bottomButton": "Sulje"
+  },
+
+  "infoModal": {
+    "modalTitle": "Tietoa",
+    "budgetTitle": "Tavoite Budjetti",
+    "descriptionTitle": "Projektin Kuvaus"
+  },
+
+  "addNewItemScreen": {
+    "title": "Projektin nimi",
+    "title2": "Raha",
+    "title3": "Päivämäärä ja Aika",
+    "title4": "Valitse kuva",
+    "unsplashInfo": "Kuvat tarjoaa Unsplash",
+    "selectImageButton": "Valitse kuva",
+    "cameraPermissionDenied": "Olemme pahoillamme mutta tarvitsemme kameran käyttöoikeudet, jotta tämä toimisi!",
+    "nextButton": "Seuraava",
+    "saveButton": "Tallenna",
+    "name": "Projektin nimi",
+    "description": "Kuvaus",
+    "budgetGoal": "Tavoitebudjetti",
+    "deadlineDate": "Määräpäivä",
+    "deadlineTime": "Määräaika",
+    "projectImg": "Projektin kuva",
+    "currency": "Valuutta"
+  },
+
+  "card": {
+    "title": "Projektit"
+  },
+
+  "loginScreen": {
+    "loginTitle": "Kirjaudu sisään",
+    "forgotPWTitle": "Salasana Hukassa",
+    "newAccountTitle": "Uusi Tili",
+    "email": "Sähköposti",
+    "password": "Salasana",
+    "loginButton": "Kirjaudu",
+    "newAccountButton": "Lisää",
+    "forgotPWButton": "Lähetä",
+    "leftBottomText": "Salasana hukassa?",
+    "rightBottomText": "Luo uusi tili",
+    "naBottomText": "Tili jo olemassa? Kirjaudu sisään",
+    "rPwTopText": "Kirjoita käyttämäsi sähköpostiosoite ja lähetämme sinulle salasanan palautuslinkin."
+  },
+
+  "itemsList": {
+    "emptyList": "Projektiluettelo on tyhjä. lisää uusi projekti painamalla Lisää projekti -painiketta."
+  },
+
+  "timer": {
+    "day": "päivä",
+    "days": "päivää",
+    "hours": "h",
+    "minutes": "min",
+    "seconds": "sekuntia",
+    "timeEnd": "Aika täynnä!",
+    "oneDayLeft": "Vain yksi päivä jäljellä",
+    "LessThanDayLeft": "Alle päivä jäljellä"
+  },
+
+  "addNewItemsImage": {
+    "searchBar": "Etsi kuvia",
+    "unsplashBy": "Kuvannut",
+    "unsplashSponsored": "Unsplash kuvat"
+  },
+
+  "circle": {
+    "leftTopText": "Jäljellä",
+    "rightTopText": "Maksettu"
+  },
+
+  "configScreen": {
+    "title": "Asetukset",
+    "logOut": "Kirjaudu Ulos",
+    "removeAccount": "Poista Tili",
+    "warning": "Oletko aivan varma?"
+  }
+}
