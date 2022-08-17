@@ -15,6 +15,7 @@ A budget calculator app made with React Native (Expo).
 - Typescript
 - Admob
 - Firebase support
+- Unsplash API
 
 ### Copyright
 All rights reserved 2022, Tumeware (tumeware@gmail.com), Tuomo Neuvonen.
