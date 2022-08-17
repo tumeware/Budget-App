@@ -1,3 +1,24 @@
+# BudgetPal - Budget app
+
+### What is it
+A budget calculator app made with React Native (Expo).
+
+### Platforms
+- iOS;
+- Android;
+
+### What's included
+
+- MongoDB API;
+- CloudBees CodeShip CI/CD;
+- GCP Kubernetes Automation (Google Cloud Pipeline);
+- Stripe API;
+- Docker to automate server;
+
+### Copyright
+All rights reserved 2022, Tumeware (tumeware@gmail.com), Tuomo Neuvonen.
+##### Viewing only, do not copy!
+
 <img width="447" alt="Screenshot 2022-08-17 at 18 43 12" src="https://user-images.githubusercontent.com/47271289/185187747-85ded579-7918-41b8-bbd9-e7a94dd43963.png">
 <img width="447" alt="Screenshot 2022-08-17 at 18 44 40" src="https://user-images.githubusercontent.com/47271289/185187793-5700d835-1002-4ae3-a283-a4751f4e153c.png">
 <img width="447" alt="Screenshot 2022-08-17 at 18 45 31" src="https://user-images.githubusercontent.com/47271289/185187804-06641535-a9b2-4fe0-97be-3584e2888f4b.png">
